@@ -31,4 +31,4 @@ This teardown is organized into the following key sections:
 
 ## 📂 File in This Repository
 
-* `Souled_Store_Product_Teardown_1736237462.pdf` - The complete PDF analysis.
+* `Souled_Store_Product_Teardown_1736237462 (1).pdf` - The complete PDF analysis.
